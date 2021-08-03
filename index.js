@@ -32,3 +32,5 @@ function multiplicar(){
 function dividir(){
     resultado.innerHTML = parseFloat(n1.value) / parseFloat(n2.value)
 }
+
+*/
